@@ -5,15 +5,11 @@
       "select_backup_ads":"",
       "main_ads_banner": "ca-app-pub-7615880214648928/9779693576",
       "main_ads_intertitial":"ca-app-pub-7615880214648928/5889276373",
-      "main_ads_natives":"",
-      "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "open_ads_admob":"ca-app-pub-7615880214648928/6074282975",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
+      "open_app_ads":"ca-app-pub-7615880214648928/6074282975",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -1922,6 +1918,41 @@
       "wallpaper_name": "VGBG270",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/736x/36/3b/0f/363b0f7786d70b5144d1c9d5cb6e8891.jpg"
+    },
+	{
+      "id": 271,
+      "name_category": "Aesthetic",
+      "wallpaper_name": "VGBG271",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/59/8b/b3/598bb3a9a24a4747a492b7d82c4baecb.gif"
+    },
+	{
+      "id": 272,
+      "name_category": "Aesthetic",
+      "wallpaper_name": "VGBG272",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/57/17/dd/5717dda0e1591d42cf5a732b7ddb64ba.gif"
+    },
+	{
+      "id": 273,
+      "name_category": "Aesthetic",
+      "wallpaper_name": "VGBG273",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/c8/be/46/c8be4625b244e35818ce16e50b5a22f3.gif"
+    },
+	{
+      "id": 274,
+      "name_category": "Aesthetic",
+      "wallpaper_name": "VGBG274",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/a6/7c/1f/a67c1f5359f9d751be950e8c2f7b1eaf.gif"
+    },
+	{
+      "id": 275,
+      "name_category": "Aesthetic",
+      "wallpaper_name": "VGBG275",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/0f/3c/13/0f3c13417d6c7ad82baacefa471fee03.gif"
     }
   ]
 }
